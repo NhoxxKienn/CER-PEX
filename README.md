@@ -7,4 +7,4 @@ Practical Exercise 2: Implementing the Computations of various Integration metho
 
 Practical Exercise 3: Implementing the PID-Controller, in order to account the effect of external errors like gravity and frictions.
 
-The exercise was implemented using the language <strong>Python<strong> together with the Library <strong>NumPy<strong>.
+The exercise was implemented using the language **Python** together with the Library **NumPy**.
