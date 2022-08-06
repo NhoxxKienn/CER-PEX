@@ -6,3 +6,5 @@ Practical Exercise 1: Implementing the Computations of forward and inverse Kinem
 Practical Exercise 2: Implementing the Computations of various Integration methods, in order to compare the effects and qualities of each method on our Simulation.
 
 Practical Exercise 3: Implementing the PID-Controller, in order to account the effect of external errors like gravity and frictions.
+
+The exercise was implemented using the language Python together with the Library NumPy.
